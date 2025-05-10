@@ -1,0 +1,6 @@
+2023-Dec-21-22:07:22,Data extracted successfuly
+2023-Dec-21-22:07:27,Data transformed successfuly
+2023-Dec-21-22:08:50,Data loaded to CSV successfuly
+2023-Dec-21-22:09:17,Database successfuly connected
+2023-Dec-21-22:12:15,Data loaded to DB successfuly
+2023-Dec-21-22:12:51,Query made: SELECT * FROM Countries_by_GDP
